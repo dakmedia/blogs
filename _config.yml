@@ -19,7 +19,7 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 version: v1.2.0
-avatar: ''
+avatar: https://avatars1.githubusercontent.com/u/21163398?s=400&u=dcf98eb1ef275ae3f24fcc0419e6a1bdb5565786&v=4
 google_analytics:
 exclude:
 - Gemfile
